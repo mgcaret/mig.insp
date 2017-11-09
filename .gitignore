@@ -1,0 +1,5 @@
+*.po
+*.o
+*.lst
+mig.insp
+
